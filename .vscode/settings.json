@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/*.iml": true,
+        "**/.gitignore": true,
+        "**/.idea": true,
+        "**/.vscode": true,
+        "**/target": true
+    },
+    "search.exclude": {
+        "**/*.iml": true,
+        "**/.gitignore": true,
+        "**/.idea": true,
+        "**/.vscode": true,
+        "**/target": true
+    },
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
